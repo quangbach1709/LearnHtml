@@ -183,7 +183,7 @@ body {
 }
 @keyframes growth {
     from{
-        height: calc(var(--percent)-50%);
+        height: calc(var(--percent) - 50%);
         opacity: 0;
     }
     to{
